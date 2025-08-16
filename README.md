@@ -20,7 +20,7 @@ A web-based spam detection system built with FastAPI and a fine-tuned DistilBERT
 | **Frontend**   | HTML + CSS (Jinja2 Templates)                           |
 | **Model**      | DistilBERT (HuggingFace Transformers)                   |
 | **Framework**  | PyTorch                                                 |
-| **Deployment** | Local/Cloud (e.g., Render, Railway, HuggingFace Spaces) |
+
 
 
 # Project Structure
